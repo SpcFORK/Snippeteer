@@ -1,4 +1,5 @@
-# Code Snippet API
+# Snippeteer
+## Code Snippet API
 
 This is a simple API that allows users to upload code snippets, view all snippets, upvote them, and filter them based on language, creation date, or likes.
 
